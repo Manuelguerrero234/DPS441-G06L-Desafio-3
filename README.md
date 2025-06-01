@@ -7,4 +7,5 @@
 # Enlace donde se realizo el desafio
 https://snack.expo.dev/@bocchidizilla/desafio3dps
 
-# Enlace del video
+# Enlace del video explicando y mostrando la funcionalidad del video.
+https://drive.google.com/file/d/1wgvLtVhico824yqVLLRq8J1lYcL-Rp9z/view?usp=drivesdk
